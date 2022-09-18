@@ -1,4 +1,4 @@
-# Challenge #1: Help Horiseon!
+## Help Horiseon!
 
 ## Description
 
